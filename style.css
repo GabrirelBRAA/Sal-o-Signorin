@@ -71,4 +71,25 @@ p{
     position: absolute;
     top: 190vh;
     left: 50vw;
+    right: 5vw;
+}
+@media (max-width:600px)
+ {
+    h1{
+        font-size: 6vh;
+    }
+    .texto{
+        font-size: 7vh;
+    }
+    #sumario{
+        padding-top: 4vh;
+    }
+    #p2{
+        font-size: 3vh;
+    }
+    #p3{
+        top: 170vh;
+        font-size: 7vh;
+        left: 10vw;
+    }
 }
