@@ -73,7 +73,7 @@ p{
     left: 50vw;
     right: 5vw;
 }
-@media (max-width:600px)
+@media (max-width:860px)
  {
     h1{
         font-size: 6vh;
