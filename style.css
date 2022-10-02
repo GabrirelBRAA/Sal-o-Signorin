@@ -1,0 +1,74 @@
+
+body {
+    background-color: gold;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-family: 'Nabla', monospace;
+    text-align: center;
+    font-size: 15vh;
+    background-color: #FF5412;
+    margin: 0;
+}
+p{
+    text-align: center;
+    font-size: x-large;
+}
+#intro {
+    height: 85vh;
+    width: 100vw;
+    
+}
+#image1{
+    height: 85vh;
+    width: 100vw;
+    filter: brightness(50%);
+    position: relative;
+}
+.texto{
+    font-family: Londrina Shadow, monospace;
+    font-size: 10vh;
+    margin: 0;
+    color: gold;
+}
+#p1{
+    position: absolute;
+    top: 40vh;
+    left: 5vw;
+    right: 70vw;
+    text-align: center;
+
+}
+#sumario{
+    height: 40vh;
+    background-color:#01DEE6;
+    text-align: center;
+    padding-top: 20vh;
+}
+#lista{
+    font-family: Londrina Shadow, monospace;
+    font-size: 4vh;
+    position: relative;
+    margin: 0;
+} 
+#p2{
+    font-family: Fredoka One, monospace;
+    font-size: 5vh;
+    color: white;
+}
+#cozinha_div{
+    height: 100vh;
+    width: 100vw;
+}
+#cozinha_img{
+    height: 100vh;
+    width: 100vw;
+    filter: brightness(50%);
+    position: relative;
+}
+#p3{
+    position: absolute;
+    top: 190vh;
+    left: 50vw;
+}
